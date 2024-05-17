@@ -1,0 +1,2 @@
+# odin
+learn odin
